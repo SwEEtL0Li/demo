@@ -1,0 +1,5 @@
+G:\DW\Geom\Areas\Areas\bin\Debug\Areas.dll
+G:\DW\Geom\Areas\Areas\bin\Debug\Areas.pdb
+G:\DW\Geom\Areas\Areas\obj\Debug\Areas.csproj.CoreCompileInputs.cache
+G:\DW\Geom\Areas\Areas\obj\Debug\Areas.dll
+G:\DW\Geom\Areas\Areas\obj\Debug\Areas.pdb
